@@ -1,3 +1,7 @@
+<div style="background-color:#1e1e1e; color:#ffffff; padding: 20px; border-radius: 10px;">
+
+<br clear="both">
+
 <p align="center">👋 Hey there!<br>I’m a seasoned internal auditor and data analyst with 10+ years of experience turning data into actionable insights across various industries. I love digging into processes to find inefficiencies and helping businesses streamline their operations.<br><br>Lately, I’ve been diving deep into blockchain tech, especially smart contracts, to bring transparency and security to digital transactions. I’m always experimenting with new tools and technologies, aiming to bridge the gap between traditional auditing and cutting-edge tech.<br><br>I’m a relentless self-learner and enjoy hacking away at problems—whether solo or in a team. My focus is always on building solutions that are not just effective but also innovative.<br><br>Let’s build something awesome together!</p>
 
 ###
@@ -33,21 +37,10 @@
 
 ###
 
-<h2 align="left">SOCIAL MIDIA</h2>
+<h2 align="left">SOCIAL MEDIA</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/williammassalinoauditor/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="massinha10@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/WilliamMassalino/WilliamMassalino/output/snake.svg" alt="Snake animation" />
-
-###
